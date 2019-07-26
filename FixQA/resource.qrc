@@ -1,0 +1,126 @@
+<RCC>
+    <qresource prefix="/sources">
+        <file>sources/009.png</file>
+        <file>sources/014.png</file>
+        <file>sources/016.png</file>
+        <file>sources/017.png</file>
+        <file>sources/018.png</file>
+        <file>sources/019.png</file>
+        <file>sources/021.png</file>
+        <file>sources/022.png</file>
+        <file>sources/023.png</file>
+        <file>sources/024.png</file>
+        <file>sources/025.png</file>
+        <file>sources/027.png</file>
+        <file>sources/028.png</file>
+        <file>sources/029.png</file>
+        <file>sources/030.png</file>
+        <file>sources/031.png</file>
+        <file>sources/032.png</file>
+        <file>sources/033.png</file>
+        <file>sources/034.png</file>
+        <file>sources/045.png</file>
+        <file>sources/051.png</file>
+        <file>sources/064.png</file>
+        <file>sources/065.png</file>
+        <file>sources/066.png</file>
+        <file>sources/067.png</file>
+        <file>sources/068.png</file>
+        <file>sources/071.png</file>
+        <file>sources/073.png</file>
+        <file>sources/075.png</file>
+        <file>sources/076.png</file>
+        <file>sources/085.png</file>
+        <file>sources/086.png</file>
+        <file>sources/087.png</file>
+        <file>sources/088.png</file>
+        <file>sources/089.png</file>
+        <file>sources/096.png</file>
+        <file>sources/109.png</file>
+        <file>sources/112.png</file>
+        <file>sources/113.png</file>
+        <file>sources/117.png</file>
+        <file>sources/120.png</file>
+        <file>sources/121.png</file>
+        <file>sources/122.png</file>
+        <file>sources/123.png</file>
+        <file>sources/124.png</file>
+        <file>sources/126.png</file>
+        <file>sources/128.png</file>
+        <file>sources/130.png</file>
+        <file>sources/192.png</file>
+        <file>sources/211.png</file>
+        <file>sources/212.png</file>
+        <file>sources/Add Property.png</file>
+        <file>sources/Add User Male.png</file>
+        <file>sources/Administrative Tools.png</file>
+        <file>sources/Appointment Reminders.png</file>
+        <file>sources/Bluetooth.png</file>
+        <file>sources/Checked Checkbox.png</file>
+        <file>sources/Checked Checkbox_2.png</file>
+        <file>sources/Checked.png</file>
+        <file>sources/Checked_2.png</file>
+        <file>sources/Checkmark.png</file>
+        <file>sources/Code.png</file>
+        <file>sources/Computer.png</file>
+        <file>sources/Console.png</file>
+        <file>sources/Delete Property.png</file>
+        <file>sources/Delete Shield.png</file>
+        <file>sources/Delete.png</file>
+        <file>sources/Disclaimer.png</file>
+        <file>sources/Edit Property.png</file>
+        <file>sources/Enter Pin.png</file>
+        <file>sources/Error.png</file>
+        <file>sources/FAQ.png</file>
+        <file>sources/Firewall.png</file>
+        <file>sources/Help.png</file>
+        <file>sources/High Priority.png</file>
+        <file>sources/High Priority_2.png</file>
+        <file>sources/Important Property.png</file>
+        <file>sources/Individual Server.png</file>
+        <file>sources/Info Squared.png</file>
+        <file>sources/Info Squared_2.png</file>
+        <file>sources/Installing Updates.png</file>
+        <file>sources/IP Address.png</file>
+        <file>sources/Key 2.png</file>
+        <file>sources/Like It.png</file>
+        <file>sources/Linux Client.png</file>
+        <file>sources/Maintenance.png</file>
+        <file>sources/Natural User Interface 2.png</file>
+        <file>sources/Network Cable.png</file>
+        <file>sources/Network Card.png</file>
+        <file>sources/Pin 3.png</file>
+        <file>sources/Pin.png</file>
+        <file>sources/Preview Pane.png</file>
+        <file>sources/Privacy.png</file>
+        <file>sources/Private.png</file>
+        <file>sources/Private_2.png</file>
+        <file>sources/Property Time.png</file>
+        <file>sources/Registry Editor.png</file>
+        <file>sources/Remove Property.png</file>
+        <file>sources/Remove User Male.png</file>
+        <file>sources/Restriction Shield.png</file>
+        <file>sources/Search Property.png</file>
+        <file>sources/Settings 3.png</file>
+        <file>sources/Show Password.png</file>
+        <file>sources/Show Property.png</file>
+        <file>sources/Stop Property.png</file>
+        <file>sources/Support.png</file>
+        <file>sources/Support_2.png</file>
+        <file>sources/System Information.png</file>
+        <file>sources/System Report.png</file>
+        <file>sources/System Task.png</file>
+        <file>sources/Tear Off Calendar.png</file>
+        <file>sources/Uninstalling Updates.png</file>
+        <file>sources/Uninstalling Updates_2.png</file>
+        <file>sources/Urgent Property.png</file>
+        <file>sources/User Credentials.png</file>
+        <file>sources/User Menu Female.png</file>
+        <file>sources/User Menu Male.png</file>
+        <file>sources/Versions.png</file>
+        <file>sources/Virtual Machine 2.png</file>
+        <file>sources/Warning Shield.png</file>
+        <file>sources/Wired Network.png</file>
+        <file>sources/Work.png</file>
+    </qresource>
+</RCC>
